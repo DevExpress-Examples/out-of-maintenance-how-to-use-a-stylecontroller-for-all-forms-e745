@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EditorsHelper.cs](./CS/EditorsHelper.cs) (VB: [EditorsHelper.vb](./VB/EditorsHelper.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Form2.cs](./CS/Form2.cs) (VB: [Form2.vb](./VB/Form2.vb))
+<!-- default file list end -->
 # How to use a StyleController for all forms
 
 
